@@ -3,7 +3,7 @@ var readLine = require('linebyline');
 var zpl = require('./zplFunctions');
 var mode = require('./zplFunctions').mode;
 
-//Resolution Supported 
+
 var dpmmPerDpi = {
 	"200":7.874,
 	"203":7.9921,
